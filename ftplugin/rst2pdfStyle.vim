@@ -4,3 +4,4 @@
 " Last Change: 7 December 2017
 
 :setlocal iskeyword+=-
+:setlocal commentstring=# %s
